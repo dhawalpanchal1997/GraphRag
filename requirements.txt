@@ -1,0 +1,11 @@
+streamlit>=1.44.0
+langchain-community>=0.3.0,<0.4.0
+langchain-ollama>=0.2.0,<0.3.0
+langchain-qdrant>=0.2.0,<0.3.0
+langchain-text-splitters>=0.3.0,<0.4.0
+neo4j>=5.23.0
+neo4j-graphrag[experimental,ollama]>=1.7.0
+qdrant-client>=1.9.0
+unstructured[pdf]>=0.16.0
+pypdf>=5.0.0
+python-dotenv>=1.0.1
