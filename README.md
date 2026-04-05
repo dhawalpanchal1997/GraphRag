@@ -15,6 +15,15 @@ Everything runs locally:
 - `Neo4j` for graph construction and graph retrieval
 - `Streamlit` for the UI
 
+## Demo
+
+[![Local RAG Workspace demo screenshot](assets/demo-screenshot.png)](assets/demo-video.mov)
+
+Click the screenshot above to open the demo video.
+
+- Screenshot: [`assets/demo-screenshot.png`](assets/demo-screenshot.png)
+- Demo video: [`assets/demo-video.mov`](assets/demo-video.mov)
+
 ## Why This Project Exists
 
 Most RAG demos show only one retrieval strategy. This project is designed to make the tradeoffs visible.
@@ -168,6 +177,9 @@ This makes debugging much easier than looking only at the final answer.
 
 ```text
 .
+├── assets
+│   ├── demo-screenshot.png
+│   └── demo-video.mov
 ├── app.py
 ├── docker-compose.yml
 ├── requirements.txt
