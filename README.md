@@ -366,6 +366,3 @@ pip install -r requirements.txt
 - richer source attribution per answer
 - incremental graph rebuilds instead of full rebuilds
 
-## License
-
-Add your preferred license here before publishing.
